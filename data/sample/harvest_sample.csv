@@ -1,0 +1,7 @@
+harvest_no, harvest_date, company, crop, quantity_g
+1, 2026-08-02, companyA, strawberry, 300
+2, 2026-08-02, companyA, reaf, 200
+2, 2026-08-02, companyB, reaf, 200
+4, 2026/8/2, companyB, strawberry, 150
+5, 2026-08-02, , herb,
+6, 2026-08-02, companyC, herb, １５０
